@@ -60,7 +60,7 @@ nav ul li.selected a {
 }
 #search {
     float: right;
-    margin: 21px 41px 0 0;
+    margin: 10px;
     text-align: right;
 }
 
@@ -91,10 +91,7 @@ nav ul li.selected a {
     height: 27px;
     padding: 0;
     width: 64px;
-    position: absolute;
-    margin-top: -20px;
 }
-
 
 #search1 {
     float: right;
