@@ -104,16 +104,14 @@ nav ul li.selected a {
     float: right;
     margin: 21px 41px 0 0;
     text-align: right;
-    position: absolute;
-    margin-top: -20px;
+    /*position: absolute;*/
+    /*margin-top: -20px;*/
 }
 
 #search1 form {
     float: right;
     border: 1px solid #E0E0E0;
     border-radius: 2px;
-    /*position: absolute;*/
-    /*margin-top: -20px;*/
 }
 
 #search1 form input[type="text"] {
