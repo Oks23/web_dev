@@ -60,10 +60,8 @@ nav ul li.selected a {
 }
 #search {
     float: right;
-    /*margin: 21px 41px 0 0;*/
+    margin: 21px 41px 0 0;
     text-align: right;
-    position: absolute;
-    margin-top: -20px;
 }
 
 #search form {
@@ -78,8 +76,6 @@ nav ul li.selected a {
     height: 27px;
     padding: 5px;
     width: 129px;
-    position: absolute;
-    margin-top: -20px;
 }
 
 #search form input[type="submit"] {
@@ -104,8 +100,6 @@ nav ul li.selected a {
     float: right;
     margin: 21px 41px 0 0;
     text-align: right;
-    /*position: absolute;*/
-    /*margin-top: -20px;*/
 }
 
 #search1 form {
