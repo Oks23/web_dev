@@ -58,3 +58,81 @@ nav ul li.selected a {
     background: none repeat scroll 0 0 red;
     height: 50px;
 }
+#search {
+    float: right;
+    margin: 21px 41px 0 0;
+    text-align: right;
+}
+
+#search form {
+    float: right;
+}
+
+#search form input[type="text"] {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E0E0E0;
+    float: left;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    height: 27px;
+    padding: 5px;
+    width: 129px;
+}
+
+#search form input[type="submit"] {
+    background-color: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-left-width: 0;
+    color: #383838;
+    cursor: pointer;
+    float: left;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    height: 27px;
+    padding: 0;
+    width: 64px;
+}
+
+
+#search1 {
+    float: right;
+    margin: 21px 41px 0 0;
+    text-align: right;
+}
+
+#search1 form {
+    float: right;
+    border: 1px solid #E0E0E0;
+    border-radius: 2px;
+}
+
+#search1 form input[type="text"] {
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 3px;
+    float: left;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    height: 15px;
+    padding: 5px;
+    width: 129px;
+}
+
+#search1 form input[type="submit"] {
+    background-color: #FFFFFF;
+    border: 1px solid #E0E0E0;
+    border-radius: 3px;
+    border-left-width: 0;
+    color: #383838;
+    cursor: pointer;
+    float: left;
+    font-family: 'Arial', 'Helvetica', sans-serif;
+    font-size: 11px;
+    font-weight: bold;
+    height: 27px;
+    padding: 0;
+    width: 64px;
+}
+
+
+
+

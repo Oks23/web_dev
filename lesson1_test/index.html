@@ -6,11 +6,6 @@
     <link rel="stylesheet" href="style.css">
 </head>
 <body>
-<!--<div>-->
-<!--    <h1>Development</h1>-->
-<!--    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium at consequuntur dolore fuga inventore nulla-->
-<!--        odio perferendis? Amet aperiam, quidem.</p>-->
-<!--</div>-->
 <header>
     <nav>
         <ul>
@@ -21,6 +16,13 @@
             <li><a href="#">Contacts</a></li>
         </ul>
     </nav>
+    <section id="search1">
+        <form action="#" onsubmit="return false;" method="get">
+            <input type="text" onfocus="if (this.value =='Search..' ) this.value=''" onblur="if (this.value=='') this.value='Search..'" value="Search.." name="q">
+            <input type="submit" value="Search">
+        </form>
+    </section>
+    </div>
 </header>
 </body>
 </html>
