@@ -1,0 +1,11 @@
+header {
+    background-image: linear-gradient(to left bottom, #dedede, #c0c0c0, #a3a3a3, #878686, #6c6b6b, #5d5c5c, #4f4e4e, #414040, #3b3a3a, #343434, #2e2e2e, #282828);
+    border-bottom: 2px solid #e0e0e0;
+    position: relative;
+    z-index: 10;
+}
+nav ul li a:hover,
+nav ul li.selected a {
+    background: none repeat scroll 0 0 red;
+    height: 50px;
+}
